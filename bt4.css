@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+form {
+    margin: 0 auto;
+    width: 400px;
+    margin-top: 50px;
+    border: 2px solid #5528ff;
+    padding: 10px;
+}
